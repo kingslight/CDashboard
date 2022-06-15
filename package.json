@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "jsonmark": "^0.0.1",
+    "line-reader": "^0.4.0",
+    "markdown-it": "^12.3.2",
+    "md-2-json": "^2.0.0",
+    "md-to-json": "^1.0.2",
+    "md2json2html": "^1.0.0",
+    "pdf-parse": "^1.1.1",
+    "pdfreader": "^1.2.14",
+    "plain-text-data-to-json": "^2.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "gulp-notify": "^4.0.0"
+  }
+}

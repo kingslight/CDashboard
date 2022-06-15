@@ -1,0 +1,9 @@
+[{
+  "id": 123,
+  "iid": 1,
+  "title": "Bug fix  - Handled null Exception, while Address is null ",
+  "description": "# Change Details #\n\n ## Issue No: ##\n 123 \n## Incident: ##\n INC123 \n## Change Description ##\nThis is test change\n## Change Date (MM/DD/YYYY) ##\n05/15/2022\n## Implementer Team ##\nTiger Team\n## DownStream Impact ##\nNo\n## Change Type ##\n\n- [x] Minor\n- [ ] Major\n- [ ] Emergency",
+  "mr_link": "",
+  "commit_sha": "de3b4g9g329449cdge032203d"
+  }
+]
